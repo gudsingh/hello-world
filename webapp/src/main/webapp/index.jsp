@@ -34,12 +34,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Code is pushed from <h2> GitBash </h2> from windows system </h1>
-
-    <br>
-    <h1>This line is from SCM Poll(Build Trigger)..... </h1>
-    <h1> This code is prushed from github via jenkins and deployed to automated docker container </h1>
-
   
 </form>
 This is Guddu
