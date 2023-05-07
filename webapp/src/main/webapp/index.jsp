@@ -37,5 +37,4 @@
   
 </form>
 
-
-........Next Kubernetes.......
+Next will be Kubernets section...........
