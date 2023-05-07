@@ -36,5 +36,3 @@
    <h1> Thankyou, Happy Learning </h1>
   
 </form>
-
-Now kubernetes session will be begin......Hello Guddu.
